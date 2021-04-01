@@ -1,7 +1,7 @@
 Changes are yet to be accomplished. 
 Forked 4/1/2021
 
-(Notes from the original)
+(Notes from the original follow)
 # Programmer's Notepad
 
 [Programmer's Notepad](http://www.pnotepad.org/) is a text editor for Windows.
